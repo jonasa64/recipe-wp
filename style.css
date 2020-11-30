@@ -1,0 +1,17 @@
+.recipe-wrapper {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+.show-wrapper {
+  padding: 10px;
+}
+
+.show-wrapper img {
+  height: 300px;
+  display: block;
+}
+
+.show-wrapper a {
+  text-decoration: none;
+}
